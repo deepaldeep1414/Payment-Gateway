@@ -1,6 +1,6 @@
 **The project is prepared by the following members:**
 
-**1\. Deepal Deep (Team Leader)**
+**1\. Deepal Deep**
 
 **2\. Kumar Animesh**
 
